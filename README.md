@@ -4,7 +4,7 @@ Iceland Technical Test Clean Solution
 
 ## Installation
 
-Target Framework netcoreapp3.1
+Target Framework netcoreapp3.1  
 Use the .NET Core CLI to install the following dependencies for the testing framework
 
 ```bash
